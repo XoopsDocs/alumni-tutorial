@@ -17,6 +17,16 @@ This module is  to list the Alumni of your school or a group of schools. You can
 ![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the Alumni Module (Admin side)*
 
+## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
+
+**You can fork the module --> [here](https://github.com/XoopsModules25x/alumni))** 
+
+## How to Contribute
+
+[You can contribute on GitHub](https://github.com/XoopsDocs/alumni-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/alumni-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/alumni-tutorial) changes.
+
+Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
+
 # Table of Content
 
 * [Install/Uninstall](book/1install.md)
@@ -26,9 +36,9 @@ This module is  to list the Alumni of your school or a group of schools. You can
 * [The User Side](book/5userside.md)
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
-* [Other](book/8other.md) //delete, if not used
+* [Miscellaneous](book/8other.md) 
 * [Module Credits](book/9credits.md)
-* 
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ##License:
 
