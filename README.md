@@ -10,7 +10,7 @@
 
 © 2015 XOOPS Project ([www.xoops.org](http://xoops.org))   
 
-## Module Purpose 
+## Module Purpose
 
 This module is  to list the Alumni of your school or a group of schools. You can upload 2 photos: one graduation photo and one recent photo.
 
