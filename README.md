@@ -12,7 +12,7 @@
 
 ## Module Purpose
 
-This module is  to list the Alumni of your school or a group of schools. You can upload 2 photos: one graduation photo and one recent photo.
+This module is to list the Alumni of your school or a group of schools. You can upload 2 photos: one graduation photo and one recent photo.
 
 ![image001.png](en/assets/image001.jpg)
 *Figure 1: Main view of the Alumni Module (Admin side)*
